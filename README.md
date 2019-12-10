@@ -1,4 +1,6 @@
-#This is project created alongside with Udemy course: [Build Responsive Real World Websites with HTML5 and CSS3](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
+# Project Omnifood: A Healthy Food Delivery Company
+This is a project created alongside with Udemy course: [Build Responsive Real World Websites with HTML5 and CSS3](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/).
+
 Although there are many templates out there we can use for building amazing websites, I have learned so much from building the website from scratch.
 
 Topics covered include:
