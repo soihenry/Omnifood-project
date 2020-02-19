@@ -1,7 +1,9 @@
 # Project Omnifood: A Healthy Food Delivery Company
-This is a project created alongside with Udemy course: [Build Responsive Real World Websites with HTML5 and CSS3](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/).
+This is one of my early projects created alongside with Udemy course: [Build Responsive Real World Websites with HTML5 and CSS3](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/). Although there are many templates out there we can use for building amazing websites, I have learned so much from building the website from scratch.
 
-Although there are many templates out there we can use for building amazing websites, I have learned so much from building the website from scratch.
+### [View the demo](https://adoring-gates-0dca68.netlify.com/#)
+
+#### Kindly note that the the purpose of this project is to focus on building a great UI/UX, without incorporating certain functionalities (e.g handling contact form) for the time being.
 
 Topics covered include:
 
